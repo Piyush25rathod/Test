@@ -3,6 +3,6 @@
  if ($d == "Fri")
  echo "Have a nice weekend!";
  else
- echo "Have a nice day!" . $d;
+ echo "Have a nice day! jk edited" . $d;
  ?>
 
